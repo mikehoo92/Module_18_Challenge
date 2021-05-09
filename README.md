@@ -14,7 +14,8 @@ This project uses Virtual Studio Code and the following python tools/libraries:
 - Proof of Work: a consensus algorithm that blockchain networks commonly use.
 
 
-<img src="Images/testing_roboadvisor_bot.png" width="400" >
+<img src="Images/validation.png" >
+_Validity of the Blockchain_
 
 ---
 
@@ -31,7 +32,8 @@ import pandas as pd
 import hashlib
 ```
 
-<img src="Images/slots.png" width="750" >
+<img src="Images/dropdownvalidations.png" >
+_Streamlit Application Page showing Multiple Blocks_
 
 
 ---
